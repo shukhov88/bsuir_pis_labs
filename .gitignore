@@ -1,0 +1,9 @@
+/target/
+/.idea/
+/data/output/
+/data/temp/
+*.iml
+debug.log
+/docs/
+mkdocs.yml
+/libs/
